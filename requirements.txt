@@ -1,6 +1,5 @@
 streamlit
 pandas
 numpy
-Pillow==8.4.0
-setuptools
-wheel
+Pillow==7.2.0
+
