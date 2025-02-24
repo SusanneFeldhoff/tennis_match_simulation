@@ -2,7 +2,7 @@ pip==24.0
 streamlit
 pandas
 numpy
-Pillow==9.5.0
+Pillow
 setuptools
 wheel
 
